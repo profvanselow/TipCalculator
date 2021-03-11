@@ -12,6 +12,7 @@ import POGIL12
 def main():
 
     printMessage()
+    print("Change")
 
 def printMessage(): # top line of function definition is called a header (
     # (parameter)
